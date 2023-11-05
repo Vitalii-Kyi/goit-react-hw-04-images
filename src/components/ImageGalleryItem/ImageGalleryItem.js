@@ -13,7 +13,7 @@ const customStyles = {
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: ' rgba(0, 0, 0, 0.8)',
-    // zIndex: 1200,
+    zIndex: 1200,
   },
   content: {
     maxWidth: 'calc(100vw - 48px)',
